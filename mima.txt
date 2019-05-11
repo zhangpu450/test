@@ -1,0 +1,7 @@
+数据库 名称sa 密码sa@xinyour1cn
+远程桌面 120.26.71.141  用户名:administrator
+密码:WtoMba1234
+git:用户名 zhangpu450 邮箱450760215@qq.com  密码op1987896027
+ 
+
+https://github.com/zhangpu450/demo.git
